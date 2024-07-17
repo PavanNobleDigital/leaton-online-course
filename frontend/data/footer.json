@@ -1,0 +1,59 @@
+{
+
+    "footer_content": [
+      {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae nisi scelerisque, placerat diam quis, viverra augue. Fusce ac massa in dui gravida posuere. Maecenas semper.",
+        "descriptionTwo": "Looking for a personalised trianer for your corporate team events, more content goes in here from API.",
+        "phone": "+64 22 166 8145",
+        "mail": "robin@leaton.com-",
+        "address": "Auckland, New Zealand",
+        "usefulLinks": [
+          {
+            "text": "FAQ",
+            "link": "/faqs"
+          },
+          {
+            "text": "Privacy Policy",
+            "link": "#"
+          },
+          {
+            "text": "Our Misson",
+            "link": "/our-mission"
+          },
+          {
+            "text": "Contact Us",
+            "link": "/contact-us"
+          }
+        ],
+        "ourCompany": [
+          {
+            "text": "Contact Us",
+            "link": "/contact-us"
+          },
+          {
+            "text": "About Robin",
+            "link": "/trainer/1"
+          }
+        ],
+        "socialLink": [
+          {
+            "icon": "feather-facebook",
+            "link": "#"
+          },
+          {
+            "icon": "feather-twitter",
+            "link": "#"
+          },
+          {
+            "icon": "feather-instagram",
+            "link": "#"
+          },
+          {
+            "icon": "feather-linkedin",
+            "link": "#"
+          }
+        ]
+      }
+    ]
+  }
+  

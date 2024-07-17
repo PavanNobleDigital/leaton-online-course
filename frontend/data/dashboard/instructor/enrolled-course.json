@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Leaton Upper Back Course--",
+    "shortDescription": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+    "sellerType": "Bestseller",
+    "rating": {
+      "average": 4.8,
+      "total": 215475
+    },
+    "students": 616029,
+    "authorId": 1,
+    "courseCategory": "Development",
+    "lastUpdated": "Aug 27 2022",
+    "courseLanguage": "English",
+    "certification": false,
+    "coursePrice": 84.99,
+    "offerPrice": 60,
+    "courseDuration": "5 Hrs 20 Min",
+    "enrolledStudent": "100",
+    "lectures": "50",
+    "progressValue": 40,
+    "skillLevel": "Basic",
+    "passPercentage": 95,
+    "courseThumbnail": "/images/course/course-01.jpg",
+    "instructorId": 1,
+    "reviews": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 6,
+      "fourStar": 29,
+      "fiveStar": 63
+    },
+    "featuredReviews": [1, 2, 3, 4, 5],
+    "instructorTopCourses": [2, 3],
+    "relatedCourses": [4, 5, 6]
+  }
+]

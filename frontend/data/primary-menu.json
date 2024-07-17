@@ -1,0 +1,44 @@
+{
+  "menuData": [
+    {
+      "menuTitle": "Home",
+      "menuType": "home"
+    },
+    {
+      "menuTitle": "about",
+      "menuType": "default-dropdown",
+      "hasMegamenu": false,
+      "hasMenuChild": true,
+      "hasPositionStatic": false,
+      "hasDropdown": true,
+      "menuItems": [
+        {
+          "title": "Our Mission",
+          "hasSubmenu": false,
+          "link":"/our-mission"
+        },
+        {
+          "title": "About Trainer",
+          "hasSubmenu": false,
+          "link":"/trainer/1"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Our Course",
+      "menuType": "our-course"
+    },
+    {
+      "menuTitle": "My Dashboard",
+      "menuType": "my-dashboard"
+    },
+    {
+      "menuTitle": "FAQ",
+      "menuType": "faqs"
+    },
+    {
+      "menuTitle": "Contact",
+      "menuType": "contact-us"
+    }
+  ]
+}

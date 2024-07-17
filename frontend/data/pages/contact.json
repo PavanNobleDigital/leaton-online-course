@@ -1,0 +1,52 @@
+{
+  "contactDetails": [
+    {
+      "title": "Phone Number",
+      "numOne": "+64 000 0000 000",
+      "numTwo": "0800 0000 0000",
+      "icon": "feather-headphones",
+      "address": ""
+    },
+    {
+      "title": "Email Address",
+      "mailOne": "info@leatonperformacecenter.co.nz",
+      "mailTwo": "robin@leatonperformacecenter.co.nz",
+      "icon": "feather-mail",
+      "numOne": "",
+      "address": "",
+      "numTwo": ""
+    },
+    {
+      "title": "Our Location",
+      "address": "Auckland, New Zealand",
+      "icon": "feather-map-pin",
+      "numOne": "",
+      "numTwo": ""
+    }
+  ],
+  "contactOne": [
+    {
+      "title": "Contact Phone Number",
+      "numOne": "+444 555 666 777",
+      "numTwo": "+222 222 222 333",
+      "icon": "feather-headphones",
+      "address": ""
+    },
+    {
+      "title": "Our Email Address",
+      "mailOne": "admin@gmail.com",
+      "mailTwo": "example@gmail.com",
+      "icon": "feather-mail",
+      "numOne": "",
+      "address": "",
+      "numTwo": ""
+    },
+    {
+      "title": "Our Location",
+      "address": "5678 Bangla Main Road, cities 580 GBnagla, example 54786",
+      "icon": "feather-map-pin",
+      "numOne": "",
+      "numTwo": ""
+    }
+  ]
+}

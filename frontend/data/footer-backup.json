@@ -1,0 +1,119 @@
+{
+  "footerOne": [
+    {
+      "description": "This content needs to be updated on the Footer JSON. About Leaton content will come here in this location",
+      "phone": "+64 22 166 8145",
+      "mail": "robin@test.com",
+      "address": "Auckland, New Zealand",
+      "usefulLinks": [
+        {
+          "text": "FAQ",
+          "link": "#"
+        },
+        {
+          "text": "Privacy Policy",
+          "link": "#"
+        },
+        {
+          "text": "About Us",
+          "link": "#"
+        },
+        {
+          "text": "Contact Us",
+          "link": "#"
+        },
+        {
+          "text": "FAQ",
+          "link": "/pages/faqs"
+        }
+      ],
+      "ourCompany": [
+        {
+          "text": "Contact Us",
+          "link": "/contact"
+        },
+        {
+          "text": "About Robin",
+          "link": "/trainer"
+        }
+      ],
+      "socialLink": [
+        {
+          "icon": "feather-facebook",
+          "link": "#"
+        },
+        {
+          "icon": "feather-twitter",
+          "link": "#"
+        },
+        {
+          "icon": "feather-instagram",
+          "link": "#"
+        },
+        {
+          "icon": "feather-linkedin",
+          "link": "#"
+        }
+      ]
+    }
+  ],
+  "footerTwo": [
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae nisi scelerisque, placerat diam quis, viverra augue. Fusce ac massa in dui gravida posuere. Maecenas semper.",
+      "descriptionTwo": "Morbi quis arcu vel ipsum blandit molestie. Praesent condimentum est mauris, in efficitur orci vehicula quis.",
+      "phone": "+64 22 166 8145",
+      "mail": "robin@test.com",
+      "address": "Auckland, New Zealand",
+      "usefulLinks": [
+        {
+          "text": "FAQ",
+          "link": "#"
+        },
+        {
+          "text": "Privacy Policy",
+          "link": "#"
+        },
+        {
+          "text": "About Us",
+          "link": "#"
+        },
+        {
+          "text": "Contact Us",
+          "link": "#"
+        },
+        {
+          "text": "FAQ",
+          "link": "/pages/faqs"
+        }
+      ],
+      "ourCompany": [
+        {
+          "text": "Contact Us",
+          "link": "/contact"
+        },
+        {
+          "text": "About Robin",
+          "link": "/trainer"
+        }
+      ],
+      "socialLink": [
+        {
+          "icon": "feather-facebook",
+          "link": "#"
+        },
+        {
+          "icon": "feather-twitter",
+          "link": "#"
+        },
+        {
+          "icon": "feather-instagram",
+          "link": "#"
+        },
+        {
+          "icon": "feather-linkedin",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}

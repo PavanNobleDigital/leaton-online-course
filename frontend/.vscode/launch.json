@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost",
+            "webRoot": "${workspaceFolder}",
+            "sourceMaps": true,
+            "trace": true,
+            "port": 9229
+        },
+        {
+            "name": "Next: Dev",
+            "type": "node-terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "command": "npm run dev",
+        },
+        {
+            "name": "Next: Start",
+            "type": "node-terminal",
+            "request": "launch",
+            "cwd": "${workspaceRoot}",
+            "command": "npm start",
+        },
+    ]
+}

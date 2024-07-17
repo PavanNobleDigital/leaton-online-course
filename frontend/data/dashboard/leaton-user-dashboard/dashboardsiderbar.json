@@ -1,0 +1,39 @@
+{
+  "siderbar": [
+    {
+      "link": "/my-dashboard",
+      "text": "Dashboard",
+      "icon": "feather-home"
+    },
+    {
+      "link": "/user-profile",
+      "text": "My Profile",
+      "icon": "feather-user"
+    },
+    {
+      "link": "/user-enrolled-course",
+      "text": "Enrolled Courses",
+      "icon": "feather-book-open"
+    },
+    {
+      "link": "/user-order-history",
+      "text": "Order History",
+      "icon": "feather-shopping-bag"
+    },
+    {
+      "link": "/user-settings",
+      "text": "Settings",
+      "icon": "feather-settings"
+    },
+    {
+      "link": "#",
+      "text": "Goals",
+      "icon": "feather-bookmark"
+    },
+    {
+      "link": "#",
+      "text": "Logout",
+      "icon": "feather-log-out"
+    }
+  ]
+}
