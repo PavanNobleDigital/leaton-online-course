@@ -44,7 +44,7 @@ const HomePageLms = ({ blogdata }) => {
                   <div className="slider-btn">
                     <Link
                       className="rbt-btn btn-gradient hover-icon-reverse"
-                      href="/our-courses"
+                      href="/course-list"
                     >
                       <span className="icon-reverse-wrapper">
                         <span className="btn-text">View Course</span>
