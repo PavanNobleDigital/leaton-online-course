@@ -33,7 +33,7 @@ const OurCoursesTabPage = () => {
     }
     const fetchCourses = async (token) => {
       try {
-        const response = await fetch('http://localhost/api/courses/all/',
+        const response = await fetch('/api/courses/all/',
           {
             headers: {
               "Content-Type": "application/json",

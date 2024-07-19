@@ -27,7 +27,7 @@ const SingleCourseContent = ({ getParams }) => {
   const getCourse = async (postId) => {
     try {
       const response = await fetch(
-        `http://localhost/api/coursedetails/${postId}`,
+        `/api/coursedetails/${postId}`,
         {
           headers: {
             "Content-Type": "application/json",
